@@ -55,11 +55,11 @@ public class TV {
 		this.control = control;
 	}
 	
-	public int getNumTv() {
+	public int getNumTV() {
 		return numTV;
 	}
 	
-	public void setNumTv(int numTV) {
+	public void setNumTV(int numTV) {
 		TV.numTV = numTV;
 	}
 	
